@@ -23,7 +23,7 @@ We are a group of tech-enthusiastic students from **FIIT STU**, combining:
 - development experience,
 - and a love for innovation.
 
-Together, we are building a system that demonstrates how vehicle-to-vehicle coordination and communication can improve the traffic of the future.
+Together, we are building a system that demonstrates how vehicle coordination and communication can improve the traffic of the future.
 
 **Project supervisor:** Ing. Jozef Juraško 🫡  
 
