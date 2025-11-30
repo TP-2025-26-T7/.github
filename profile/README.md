@@ -8,11 +8,11 @@ Team project at FIIT STU.
 ## ℹ️ About the project
 
 The goal of the project is to design and implement an intelligent system that enables RC cars/virtual cars to navigate intersections:
-- communicate with each other,
+- communicate with the system,
 - coordinate their manoeuvres in real time,
 - pass through intersections safely and efficiently.
 
-Our focus is on connecting and advancing previous Team projects with addition to bringing the project to real RC cars.
+Our focus is on connecting and advancing previous Team projects with the addition of bringing the project to real RC cars.
 
 ---
 
