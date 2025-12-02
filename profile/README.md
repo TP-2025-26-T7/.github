@@ -38,3 +38,7 @@ Together, we are building a system that demonstrates how vehicle coordination an
 ## WEB
 
 https://tp-2025-26-t7.github.io/T7-team-website/
+
+## Information for future teams
+
+https://github.com/TP-2025-26-T7/Onboarding
