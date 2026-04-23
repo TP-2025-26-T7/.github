@@ -45,4 +45,4 @@ https://github.com/TP-2025-26-T7/Onboarding
 
 ## Project
 
-http://virtual-intersection-dev.ail-lab.fiit.stuba.sk/
+https://virtual-intersection-dev.ail-lab.fiit.stuba.sk/
